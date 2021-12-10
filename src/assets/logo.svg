@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="116.01"
+   height="24.049999"
+   viewBox="0 0 30.694312 6.3632291"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="4.1524866"
+     inkscape:cx="133.89568"
+     inkscape:cy="66.586609"
+     inkscape:window-width="2560"
+     inkscape:window-height="1057"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     units="px"
+     width="116.01px" />
+  <defs
+     id="defs2">
+    <clipPath
+       id="clip0">
+      <rect
+         width="27.4286"
+         height="27.4286"
+         fill="#ffffff"
+         transform="translate(6.85715,6.85714)"
+         id="rect77"
+         x="0"
+         y="0" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g33492"
+       transform="matrix(0.66211863,0,0,0.59472839,-45.349835,-45.253182)">
+      <path
+         d="m 77.724693,77.716946 c -0.999464,-0.999464 -2.328333,-1.549879 -3.74179,-1.549879 -1.413457,0 -2.742325,0.550415 -3.741788,1.549879 -0.999464,0.999463 -1.549879,2.328331 -1.549879,3.741788 0,1.413457 0.550437,2.7423 1.549879,3.74179 0.999442,0.99949 2.328331,1.549876 3.741788,1.549876 1.413457,0 2.742326,-0.550413 3.74179,-1.549876 0.999463,-0.999464 1.549876,-2.328333 1.549876,-3.74179 0,-1.413457 -0.550439,-2.742303 -1.549876,-3.741788 z"
+         fill="#33cc95"
+         id="path69"
+         style="stroke-width:0.264583" />
+      <g
+         clip-path="url(#clip0)"
+         id="g75"
+         transform="matrix(0.26458333,0,0,0.26458333,68.691236,76.167067)"
+         style="fill:none">
+        <path
+           d="M 20.5714,8 V 33.1429"
+           stroke="#ffffff"
+           stroke-width="2"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           id="path71" />
+        <path
+           d="m 26.2857,12.5714 h -8.5714 c -1.0609,0 -2.0783,0.4215 -2.8284,1.1716 -0.7502,0.7501 -1.1716,1.7676 -1.1716,2.8284 0,1.0609 0.4214,2.0783 1.1716,2.8285 0.7501,0.7501 1.7675,1.1715 2.8284,1.1715 h 5.7143 c 1.0608,0 2.0783,0.4215 2.8284,1.1716 0.7502,0.7502 1.1716,1.7676 1.1716,2.8284 0,1.0609 -0.4214,2.0783 -1.1716,2.8285 -0.7501,0.7501 -1.7676,1.1715 -2.8284,1.1715 h -9.7143"
+           stroke="#ffffff"
+           stroke-width="2"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           id="path73" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:7.05556px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:'Poppins Bold';fill:#e1e1e6;fill-opacity:1;stroke-width:0.264583"
+         x="79.518616"
+         y="83.978798"
+         id="text17049"><tspan
+           sodipodi:role="line"
+           id="tspan17047"
+           style="font-size:7.05556px;fill:#e1e1e6;fill-opacity:1;stroke-width:0.264583"
+           x="79.518616"
+           y="83.978798">AP </tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:7.05556px;line-height:1.25;font-family:Poppins;-inkscape-font-specification:Poppins;stroke-width:0.264583"
+         x="89.594475"
+         y="83.978798"
+         id="text28120"><tspan
+           sodipodi:role="line"
+           id="tspan28118"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.05556px;font-family:Poppins;-inkscape-font-specification:'Poppins Semi-Bold';fill:#e1e1e6;fill-opacity:1;stroke-width:0.264583"
+           x="89.594475"
+           y="83.978798">money</tspan></text>
+    </g>
+  </g>
+</svg>
